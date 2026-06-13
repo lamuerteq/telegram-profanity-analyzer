@@ -67,7 +67,7 @@ Advanced Telegram chat profanity analyzer with regex-based detection and statist
 ## Запуск
 
 ```bash
-python main.py
+profanity-analyzer.py
 ```
 
 После запуска выберите пользователей и получите подробный отчёт прямо в терминале.
